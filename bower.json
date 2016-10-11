@@ -1,0 +1,27 @@
+{
+  "name": "todo",
+  "description": "b",
+  "main": "server.js",
+  "authors": [
+    "Graren <rennycol006@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "anos"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "https://github.com/Graren/New-To-Do-App-Ang2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
